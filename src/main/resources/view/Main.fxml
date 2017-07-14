@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="125.0" prefWidth="270.0" xmlns="http://javafx.com/javafx/8.0.65" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.sports.demo.controller.MainController">
+   <children>
+      <Label alignment="CENTER" layoutX="19.0" prefHeight="110.0" prefWidth="228.0" text="Welcome" textFill="#c92727">
+         <font>
+            <Font name="KacstBook" size="39.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>
